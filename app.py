@@ -19,7 +19,7 @@ PERSONAL_INFO = {
     demonstrating proficiency in Python, ML algorithms, and deployment. Eager to apply my 
     technical skills and contribute to innovative data-driven solutions in a professional setting.
     """,
-    "resume_link": "https://drive.google.com/file/d/1tS0jmzM_2nLhLg-krEZ9IZ_8itOrrfJz/view?usp=drive_link"  # Replace with your resume URL
+    "resume_link": "https://drive.google.com/file/d/1tS0jmzM_2nLhLg-krEZ9IZ_8itOrrfJz/view?usp=sharing"  # Replace with your resume URL
 }
 
 # Core Competencies (displayed as tags on Home page)
