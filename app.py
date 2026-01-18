@@ -2,7 +2,7 @@ import streamlit as st
 from datetime import datetime
 
 # ==================================================================================
-# 📝 CONFIGURATION SECTION - EDIT THIS TO CUSTOMIZE YOUR PORTFOLIO
+# 📝 CONFIGURATION SECTION 
 # ==================================================================================
 
 # Personal Information
@@ -12,14 +12,14 @@ PERSONAL_INFO = {
     "email": "sahilpatra1004@gmail.com",
     "linkedin": "https://www.linkedin.com/in/sahil-patra10",
     "github": "https://github.com/Sahil-Patra",
-    "profile_pic": "sahil.png",  # Replace with your image URL
+    "profile_pic": "sahil.png",  # my image URL
     "bio": """
     Computer science graduate passionate about leveraging data science and machine learning to solve 
     real-world problems. During my learning journey, I've built multiple end-to-end projects 
     demonstrating proficiency in Python, ML algorithms, and deployment. Eager to apply my 
     technical skills and contribute to innovative data-driven solutions in a professional setting.
     """,
-    "resume_link": "https://drive.google.com/file/d/1tS0jmzM_2nLhLg-krEZ9IZ_8itOrrfJz/view?usp=sharing"  # Replace with your resume URL
+    "resume_link": "https://drive.google.com/file/d/1eC4YW_rAMBK3dUUluA3gNixO6VszRDM3/view?usp=sharing"  # my resume URL
 }
 
 # Core Competencies (displayed as tags on Home page)
@@ -43,7 +43,7 @@ SKILLS = {
     "AI": 50
 }
 
-# Projects Data Structure - ADD YOUR PROJECTS HERE
+# Projects Data Structure -
 def get_projects():
     """
     Returns a list of project dictionaries.
@@ -464,7 +464,7 @@ elif page == "📬 Contact":
                     st.success("✅ Message sent successfully! I'll get back to you soon.")
                     st.balloons()
                     
-                    # NOTE: This is a placeholder. To make the form functional, you need to:
+                    # NOTE: This is a placeholder. To make the form functional, I need to:
                     # 1. Use a service like Formspree (https://formspree.io/)
                     # 2. Use EmailJS (https://www.emailjs.com/)
                     # 3. Set up a backend API to handle form submissions
