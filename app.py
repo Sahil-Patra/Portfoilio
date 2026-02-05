@@ -103,7 +103,7 @@ def get_projects():
             "description": "Architected a Retrieval-Augmented Generation (RAG) system to query complex financial reports (10-Ks, PDFs). Integrated LlamaIndex with a ChromaDB vector store for semantic search, reducing information retrieval latency by 90% and ensuring context-aware responses.",
             "image": "https://via.placeholder.com/400x250/1ABC9C/ffffff?text=ETL+Pipeline",
             "github": "https://github.com/Sahil-Patra/E-Commerce-Dashboard",
-            "demo": None,
+            "demo": "https://app.powerbi.com/view?r=eyJrIjoiNjMyZGZiMGMtZTk3My00NThhLWFmOTEtNmU4MzNjNTBhNWMzIiwidCI6ImRiOThlOTIzLWQyZWEtNDY2MS1hZDE1LTI3YzUyNjA2MGEyYiJ9",
             "tags": ["Airflow", "SQL", "Python", "Docker", "AWS S3"]
         },
           {
