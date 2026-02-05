@@ -63,7 +63,7 @@ def get_projects():
             "description": "Developed an NLP-driven data analysis tool allowing users to query CSV datasets using natural language. Leveraged LangChain agents to convert text into Python/Pandas logic, reducing manual analysis time by 40% for non-technical stakeholders.",
             "image": "https://via.placeholder.com/400x250/4A90E2/ffffff?text=Churn+Prediction",
             "github": "https://github.com/Sahil-Patra/Talk-To-Your-CSV",
-            "demo": None,
+            "demo": "https://talk-to-your-csv-n9abwf4nxyhvvyr2tye5pz.streamlit.app/",
             "tags": ["Python", "PandasAI", "Streamlit", "Hugging-face API"]
         },
         {
